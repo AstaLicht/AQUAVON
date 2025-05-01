@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+numpy
+joblib
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+gspread
+scikit-learn
